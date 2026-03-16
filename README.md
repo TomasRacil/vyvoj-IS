@@ -30,9 +30,8 @@ Materiály jsou organizovány do číslovaných adresářů podle témat probír
 * [`03-vyvoj-web-server/`](./03-vyvoj-web-server/README.md): Materiály k vývoji serverové části webových aplikací (Python, Flask/FastAPI, MVC, REST API...).
 * [`04-vyvoj-web-client/`](./04-vyvoj-web-client/README.md): Materiály k vývoji klientské části webových aplikací (HTML, CSS, JS, React...).
 * [`05-vyvoj-db-server/`](./05-vyvoj-db-server/README.md): Materiály k uloženým procedurám, triggerům v PostgreSQL.
-* `06-sprava-db/`: Materiály k administraci databází.
-* `07-nosql-newsql/`: Materiály k NoSQL a NewSQL databázím.
-<!-- * `motivacni-priklad-knihovna/`: Kompletní kód motivačního příkladu (Python backend, React frontend, PostgreSQL, Docker). -->
+* [`06-sprava-db/`](./06-sprava-databaze/): Materiály k administraci databází.
+* [`07-nosql-newsql/`](https://github.com/TomasRacil/analyza-IS-NoSQL): Materiály k NoSQL a NewSQL databázím.
 
 *(Struktura se může v průběhu semestru mírně upravovat)*
 

@@ -30,7 +30,7 @@ Důrazně doporučujeme si tyto technologie osvěžit nebo doučit ještě před
 
 ## 4. Harmonogram předmětu
 
-Aktuální plán výuky je dostupný online v [této tabulce](https://docs.google.com/spreadsheets/d/1e62nq8IQ8w0nZQy00UswpBhQKaWDr9EsWJUtxY0Ch7c/edit?usp=sharing).
+Aktuální plán výuky je dostupný online v [této tabulce](https://docs.google.com/spreadsheets/d/1unlghcFp0WomZLNOnwnwKmU65gzm9eoSRz6vJdFNR1A/edit?usp=sharing).
 
 *Poznámka: Harmonogram je orientační a může dojít k drobným úpravám v průběhu semestru.*
 
